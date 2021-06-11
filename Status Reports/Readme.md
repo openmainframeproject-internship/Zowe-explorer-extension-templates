@@ -9,7 +9,7 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
 | Week 1 Status Report | Initial meeting | | 
-| Week 2 Status Report | Discuss: - Pull request & fork.  | |
+| Week 2 Status Report | Discuss: - Pull request & fork.  Python & REXX.  Next steps: JavaScript / TypeScript / Node.js + Project | |
 | Week 3 Status Report | | |
 | Week 4 Status Report | | |
 | Week 5 Status Report | | |
