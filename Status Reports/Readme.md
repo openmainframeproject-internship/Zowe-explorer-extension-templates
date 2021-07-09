@@ -12,7 +12,7 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Week 2 Status Report | Discuss: - Pull request & fork.  Python & REXX.  Next steps: JavaScript / TypeScript / Node.js + Project | |
 | Week 3 Status Report | Canceled meeting waiting for new computer | |
 | Week 4 Status Report | Review previous projects: vs code extension, nodejs web services, package.json, npm, typescript, jest  | |
-| Week 5 Status Report | | |
+| Week 5 Status Report | Review master the mainframe connection issues. | |
 | Week 6 Status Report | | |
 | Week 7 Status Report | | |
 | Week 8 Status Report | | |
