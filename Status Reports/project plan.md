@@ -6,7 +6,7 @@
 
 **Project Description:** We will build a Zowe CLI plug-in that will use [cURL](https://curl.se/) to connect to and get data from [Zowe Sample API service](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md) and then build a VS Code Extension on top of the built Zowe CLI plug-in
 
-**Problem Definition:** Template of Zowe Explorer Extension in JSON format
+**Problem Definition:** Templates of Zowe Explorer Extension in JSON format
 
 **Deliverables**
 
