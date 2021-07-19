@@ -7,8 +7,8 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 
 | Document | Description | Document Name |
 |---|---|---|
-| Project Plan | Overall week by week plan of milestones | |
-| Week 1 Status Report | | | 
+| Project Plan | Overall week by week plan of milestones | [project plan.md]() |
+| Week 1 Status Report | | [Week 1 Status Report](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%201%20Status%20Report.docx) | 
 | Week 2 Status Report | | |
 | Week 3 Status Report | | |
 | Week 4 Status Report | | |
