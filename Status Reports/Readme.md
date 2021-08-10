@@ -18,7 +18,7 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Week 7 Status Report | Work done in week 7 |[Week 7 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%207%20Status%20Report.md) |
 | Week 8 Status Report | Work done in week 8 |[Week 8 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%208%20Status%20Report.md) |
 | Week 9 Status Report | Work done in Week 9 |[Week 9 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%209%20Status%20Report.md) |
-| Week 10 Status Report | | |
+| Week 10 Status Report | Work done in Week 10 |[Week 10 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%2010%20Status%20Report.md) |
 | Week 11 Status Report | | |
 | Week 12 Status Report | | |
 | Week 13 Status Report | | |
