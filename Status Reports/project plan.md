@@ -6,7 +6,7 @@
 
 **Project Description:** We will build a Zowe CLI plug-in that will connect to and get data from a REST API in [Zowe Sample API service](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md) and then build a VS Code Extension on top of the built Zowe CLI plug-in
 
-**Problem Definition:** Template of Zowe Explorer Extension in JSON format
+**Problem Definition:** There is no guidance or documentation available to help Zowe extenders build Zowe-related VS Code extensions that extends Zowe Explorer capabilities (menu or tree) or provides direct connection to backend services and work well within Zowe ecosystem (e.g. use Zowe CLI profiles).
 
 **Deliverables**
 
