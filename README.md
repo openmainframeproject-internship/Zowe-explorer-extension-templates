@@ -12,6 +12,12 @@ a better understanding of the problems you encountered during the developmemnt o
 | [Status Reports](https://github.com/muhammad-md/Zowe-explorer-extension-templates/tree/master/Status%20Reports) | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
 
+## CODE
+All code for this project are hosted in the Monorepo [zowe/zowe-client-sample-apps](https://github.com/zowe/zowe-client-sample-apps)
+- This project provides Sample Zowe Client applications which connect and use a sample REST API service and adhere to Zowe conformance standards.
+## Backend service used in the project
+[Zowe Sample Api Service](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md)
+
 ## Project Team
 - *Daniel Kelosky*  - *Broadcom* - Mentor
 - *Muhammad Ali* - *University* - Mentee
