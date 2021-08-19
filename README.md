@@ -10,7 +10,7 @@ a better understanding of the problems you encountered during the developmemnt o
 | [Documentation](https://github.com/muhammad-md/Zowe-explorer-extension-templates/tree/master/Documentation) |  all documentation the project team has created to describe the architecture, design, installation and configuratin of the peoject |
 | Notes and Research | Relavent information useful to understand the tools and techniques used in the project |
 | [Status Reports](https://github.com/muhammad-md/Zowe-explorer-extension-templates/tree/master/Status%20Reports) | Project management documentation - weekly reports, milestones, etc. |
-| scr | Source code - create as many subdirectories as needed |
+| [scr](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/src/Readme.md) | Source code - create as many subdirectories as needed |
 
 ## CODE
 All code for this project are hosted in the Monorepo [zowe/zowe-client-sample-apps](https://github.com/zowe/zowe-client-sample-apps)
