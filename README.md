@@ -13,10 +13,20 @@ a better understanding of the problems you encountered during the developmemnt o
 | [scr](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/src/Readme.md) | Source code - create as many subdirectories as needed |
 
 ## CODE
-All code for this project are hosted in the Monorepo [zowe/zowe-client-sample-apps](https://github.com/zowe/zowe-client-sample-apps)
+All code for this project are hosted in the Monorepo [`zowe/zowe-client-sample-apps`](https://github.com/zowe/zowe-client-sample-apps)
 - This project provides Sample Zowe Client applications which connect and use a sample REST API service and adhere to Zowe conformance standards.
+
+## Building Prerequisites
+ `npm` version `7.20+` (`npm install -g npm`)
+## Building
+
+
+1. `git clone https://github.com/dkelosky/zowe-client-sample-apps`
+2. `npm install`
+3. `npm run build`
+
 ## Backend service used in the project
-* [Zowe Sample Api Service](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md)
+* [`Zowe Sample Api Service`](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md)
 
 ## Project Team
 - *Daniel Kelosky*  - *Broadcom* - Mentor
