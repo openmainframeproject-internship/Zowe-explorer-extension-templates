@@ -21,7 +21,7 @@ All code for this project are hosted in the Monorepo [`zowe/zowe-client-sample-a
 ## Building
 
 
-1. `git clone https://github.com/dkelosky/zowe-client-sample-apps`
+1. `git clone https://github.com/dkelosky/zowe/zowe-client-sample-apps`
 2. `npm install`
 3. `npm run build`
 
