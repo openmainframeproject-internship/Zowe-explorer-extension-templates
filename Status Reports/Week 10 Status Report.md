@@ -1,6 +1,6 @@
 # <p align="center">Zowe Explorer Extension Templates
 ## <p align="center">Status Report
-<p align="center">6th July, 2021
+<p align="center">13th August, 2021
 
 ## Project Members:
 * Daniel Kelosky - Mentor - Broadcom
