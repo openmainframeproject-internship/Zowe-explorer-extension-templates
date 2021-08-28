@@ -1,6 +1,6 @@
 # [Zowe](https://www.zowe.org/) Explorer Extension Templates Detail design
 
-![](Detail_design.png)
+![](detail_design.png)
  
   ## [Zowe-client-sample-apps](https://github.com/zowe/zowe-client-sample-apps) - The monorepo containing all codes for the API, CLI and VS code extension
   steps:
