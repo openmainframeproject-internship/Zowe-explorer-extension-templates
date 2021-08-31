@@ -25,13 +25,11 @@ All code for this project are hosted in the Monorepo [`zowe/zowe-client-sample-a
 2. `npm install`
 3. `npm run build`
 
-## Backend service used in the project
-* Build and Run [`Zowe Sample Api Service`](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md), for steps on how to build and run this service in your local worsatation, see [here](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md)
 ## Demo
 see [here](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Documentation/Demo.wmv)
 ## Running prerequisites
 * `git clone https://github.com/zowe/zowe-client-sample-apps`
-* `git clone https://github.com/zowe/sample-spring-boot-api-service/tree/master/zowe-rest-api-sample-spring` - build and run on your local workstation
+* Build and Run [`Zowe Sample Api Service`](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md), for steps on how to build and run this service in your local worsatation, see [here](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md)
 
 ## Project Team
 - *Daniel Kelosky*  - *Broadcom* - Mentor
