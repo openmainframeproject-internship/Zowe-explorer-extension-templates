@@ -4,9 +4,9 @@
  
   ## [Zowe-client-sample-apps](https://github.com/zowe/zowe-client-sample-apps) - The monorepo containing all codes for the API, CLI and VS code extension
   steps:
-   * The monorepo should be opened in the visual studio code
+   * Open the monorepo in visual studio code
    * Run Extension using the commad palette or F5 button
-   * create and open the two file in the new vscode extension that you have just run, [zowe.config.json](https://github.com/zowe/zowe-client-sample-apps/blob/master/zowe.config.json) and [zowe.schema.json](https://github.com/zowe/zowe-client-sample-apps/blob/master/zowe.schema.json) as they contain connections for the backend service
+   * Open the config folder from the workspace folder in the new vscode extension that you have just run, The config folder contains [zowe.config.json](https://github.com/zowe/zowe-client-sample-apps/blob/master/zowe.config.json) and [zowe.schema.json](https://github.com/zowe/zowe-client-sample-apps/blob/master/zowe.schema.json) as they contain connections for the backend service
    * continue with the process
 
   ## [Zowe Sample API service](https://github.com/zowe/sample-spring-boot-api-service/blob/master/zowe-rest-api-sample-spring/README.md)  - web service
